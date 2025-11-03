@@ -1,0 +1,19 @@
+#show{
+  width: 312px;
+  height: 60px;
+  font-size: 20px;
+  margin-bottom: 20px;
+  text-align: left;
+  border-color: black
+}
+.buttons{
+  display: grid;
+  gap: 10px;
+}
+button{
+  width: 50px;
+  background-color: aqua;
+}
+button:hover{
+  background-color: grey
+}
